@@ -1,4 +1,4 @@
-<h1> 💻 TP1 - CSS - Desarrollo de Software</h1>
+<h1> 💻 TP2 - CSS - Desarrollo de Software</h1>
 
 Este repositorio contiene unicamente un index.html y un style.css que sigue las directrices del TP 2 de la materia Desarrollo de Software
 
