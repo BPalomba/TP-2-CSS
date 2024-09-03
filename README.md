@@ -5,8 +5,4 @@ Este repositorio contiene unicamente un index.html y un style.css que sigue las 
 
 <h2> 📟 Links</h2>
 
-<a href="https://bpalomba.github.io/TP1-HTML/">Link a la pagina<a/>
-
-
-<h1>Link</h1>
 <a href="https://bpalomba.github.io/TP-2-CSS/"/>Página deployeada</a>
