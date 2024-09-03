@@ -1,6 +1,12 @@
-# TP N°2 CSS
-<h1>Práctico n°2: Front End - CSS3 </h1>
-<p>tp2 Desarrollo de Software</p>
+<h1> 💻 TP1 - CSS - Desarrollo de Software</h1>
+
+Este repositorio contiene unicamente un index.html y un style.css que sigue las directrices del TP 2 de la materia Desarrollo de Software
+
+
+<h2> 📟 Links</h2>
+
+<a href="https://bpalomba.github.io/TP1-HTML/">Link a la pagina<a/>
+
 
 <h1>Link</h1>
-<a href=""/>Página deployeada</a>
+<a href="https://bpalomba.github.io/TP-2-CSS/"/>Página deployeada</a>
